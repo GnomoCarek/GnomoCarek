@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- GIF Centralizado -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemo2ZWlsMzAwaXozb2loOGdjdzUyaHhlczRmMTIzMWxnZ3BmMDZ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqzYrS1TvYv7scM/giphy.gif" width="400">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemo2ZWlsMzAwaXozb2loOGdjdzUyaHhlczRmMTIzMWxnZ3BmMDZ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqzYrS1TvYv7scM/giphy.gif" width="600">
   
   <br>
   
@@ -20,6 +20,6 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   </div>
   Desenvolvedor | Curioso 
