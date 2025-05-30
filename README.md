@@ -1,6 +1,6 @@
 # Olá! 👋 Sou [Renan]
 
-# 🚀 Tecnologias Familiares
+# 🚀 Minhas Habilidades:
 
 <div align="center">
   <!-- GIF Centralizado -->
