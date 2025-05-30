@@ -21,11 +21,5 @@
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </div>
-  
-  <!-- Seção de Estatísticas -->
-  <h3>📈 Estatísticas do GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dark" height="150">
-</div>
 
 Desenvolvedor | Apaixonado por tecnologia
