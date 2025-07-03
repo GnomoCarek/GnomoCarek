@@ -1,4 +1,4 @@
-# Olá! 👋 Sou [Renan]
+# Olá! 👋 Me chamo Renan Amorim.
 
 # 🚀 Minhas Habilidades:
 
