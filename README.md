@@ -27,7 +27,7 @@
 
 ###
 
-[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/YOUR_USERNAME)
+[![My GitFut card](https://gitfut.com/GnomoCarek.png)](https://gitfut.com/GnomoCarek)
 
 ###
   Desenvolvedor | Curioso
