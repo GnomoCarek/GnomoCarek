@@ -27,11 +27,14 @@
 
 ###
 
-<p align="center">
-  <a href="https://gitfut.com/GnomoCarek?country=br">
-    <img src="https://gitfut.com/GnomoCarek.png" alt="My GitFut card" width="300" />
-  </a>
-</p>
+<br/><br/>
+
+<a href="https://gitfut.com/GnomoCarek">
+  <img src="https://github.com/user-attachments/assets/57b15d50-3d76-4298-857b-ac9b084850c8" width="240" alt="GitFut card">
+</a>
+
+<br/><br/>
+
 
 ###
   Desenvolvedor | Curioso
