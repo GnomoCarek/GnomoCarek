@@ -11,7 +11,7 @@
 <br/><br/>
 
 <a href="https://gitfut.com/GnomoCarek">
-  <img src="https://github.com/user-attachments/assets/733e5494-af60-489d-ac2c-830a4a0d1808" width="240" alt="GitFut card">
+  <img src="https://github.com/user-attachments/assets/391ee8c2-e8da-4303-b961-86bc23831347" width="240" alt="GitFut card">
  </a>
 
 <br/><br/>
