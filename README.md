@@ -16,6 +16,11 @@
 
 <br/><br/>
 
+| #001 Bulbasaur | #004 Charmander | #007 Squirtle |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" width="120"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" width="120"> | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" width="120"> |
+| **Tipo:** Grass / Poison | **Tipo:** Fire | **Tipo:** Water |
+
 ###
   Desenvolvedor | Curioso
 </div>
